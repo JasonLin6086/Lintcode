@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/intersection-of-two-arrays-ii
 @Language: C++
 @Datetime: 16-06-02 16:23

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/climbing-stairs
 @Language: C++
 @Datetime: 15-11-21 21:35

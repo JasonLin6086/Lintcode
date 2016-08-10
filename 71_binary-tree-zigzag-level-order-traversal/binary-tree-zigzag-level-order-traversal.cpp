@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/binary-tree-zigzag-level-order-traversal
 @Language: C++
 @Datetime: 15-09-23 06:38

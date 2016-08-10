@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/compare-strings
 @Language: C++
 @Datetime: 15-11-06 21:00

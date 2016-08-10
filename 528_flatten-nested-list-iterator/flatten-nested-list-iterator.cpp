@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/flatten-nested-list-iterator
 @Language: C++
 @Datetime: 16-06-29 19:47

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/palindrome-partitioning
 @Language: C++
 @Datetime: 16-08-10 18:53

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/minimum-subarray
 @Language: C++
 @Datetime: 16-07-17 16:37

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/jump-game-ii
 @Language: C++
 @Datetime: 15-09-08 16:53

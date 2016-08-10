@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/super-ugly-number
 @Language: C++
 @Datetime: 16-06-30 04:11

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/evaluate-reverse-polish-notation
 @Language: C++
 @Datetime: 16-01-29 19:02

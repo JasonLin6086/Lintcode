@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/longest-palindromic-substring
 @Language: C++
 @Datetime: 16-02-09 23:17

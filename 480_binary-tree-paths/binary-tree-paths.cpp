@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/binary-tree-paths
 @Language: C++
 @Datetime: 15-11-29 07:08

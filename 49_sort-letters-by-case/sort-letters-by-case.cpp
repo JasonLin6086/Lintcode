@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/sort-letters-by-case
 @Language: C++
 @Datetime: 15-11-04 15:45

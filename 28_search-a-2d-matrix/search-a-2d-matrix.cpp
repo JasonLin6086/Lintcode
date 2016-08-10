@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/search-a-2d-matrix
 @Language: C++
 @Datetime: 15-12-01 17:17

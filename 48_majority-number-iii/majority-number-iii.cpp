@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/majority-number-iii
 @Language: C++
 @Datetime: 15-09-22 16:59

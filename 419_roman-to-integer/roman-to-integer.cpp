@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/roman-to-integer
 @Language: C++
 @Datetime: 16-03-24 17:00

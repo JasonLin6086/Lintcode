@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/wildcard-matching
 @Language: C++
 @Datetime: 16-06-30 16:12

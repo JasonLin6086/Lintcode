@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/binary-tree-level-order-traversal-ii
 @Language: C++
 @Datetime: 15-09-22 01:35

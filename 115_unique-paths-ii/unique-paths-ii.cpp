@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/unique-paths-ii
 @Language: C++
 @Datetime: 15-10-19 21:53

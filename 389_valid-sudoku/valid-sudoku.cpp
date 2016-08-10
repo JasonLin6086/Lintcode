@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/valid-sudoku
 @Language: C++
 @Datetime: 15-11-04 21:06

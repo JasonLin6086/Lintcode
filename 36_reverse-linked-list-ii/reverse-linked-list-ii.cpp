@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/reverse-linked-list-ii
 @Language: C++
 @Datetime: 15-09-26 00:43

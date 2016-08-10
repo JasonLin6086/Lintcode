@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/add-two-numbers
 @Language: C++
 @Datetime: 16-03-16 16:17

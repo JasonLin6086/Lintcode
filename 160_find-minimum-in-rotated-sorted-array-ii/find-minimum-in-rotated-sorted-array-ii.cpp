@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array-ii
 @Language: C++
 @Datetime: 15-09-21 16:41

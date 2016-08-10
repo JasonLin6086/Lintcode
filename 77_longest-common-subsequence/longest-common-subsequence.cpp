@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/longest-common-subsequence
 @Language: C++
 @Datetime: 16-01-27 17:44

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/first-position-of-target
 @Language: C++
 @Datetime: 16-07-13 18:14

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/restore-ip-addresses
 @Language: C++
 @Datetime: 15-12-21 22:10

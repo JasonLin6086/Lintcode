@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/segment-tree-build-ii
 @Language: C++
 @Datetime: 15-09-26 21:39

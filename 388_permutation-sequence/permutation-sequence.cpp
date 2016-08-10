@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/permutation-sequence
 @Language: C++
 @Datetime: 16-03-28 15:52

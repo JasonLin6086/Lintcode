@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/reverse-nodes-in-k-group
 @Language: C++
 @Datetime: 15-10-14 23:42

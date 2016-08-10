@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/word-ladder-ii
 @Language: C++
 @Datetime: 15-12-02 19:43

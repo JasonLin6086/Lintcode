@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/length-of-last-word
 @Language: C++
 @Datetime: 15-11-07 02:46

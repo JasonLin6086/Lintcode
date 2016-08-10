@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/best-time-to-buy-and-sell-stock-iii
 @Language: C++
 @Datetime: 15-11-06 17:45

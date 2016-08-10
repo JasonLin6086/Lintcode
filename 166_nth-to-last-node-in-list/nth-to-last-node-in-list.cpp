@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/nth-to-last-node-in-list
 @Language: C++
 @Datetime: 16-07-17 16:47

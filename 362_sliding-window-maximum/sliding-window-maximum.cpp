@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/sliding-window-maximum
 @Language: C++
 @Datetime: 15-09-23 20:00

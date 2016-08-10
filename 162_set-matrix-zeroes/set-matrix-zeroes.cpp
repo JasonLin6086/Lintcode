@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/set-matrix-zeroes
 @Language: C++
 @Datetime: 16-04-14 19:34

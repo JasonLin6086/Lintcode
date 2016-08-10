@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/trapping-rain-water
 @Language: C++
 @Datetime: 15-09-26 18:39

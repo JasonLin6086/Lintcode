@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/combination-sum-ii
 @Language: C++
 @Datetime: 15-11-07 17:16

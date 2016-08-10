@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/longest-increasing-subsequence
 @Language: C++
 @Datetime: 15-12-07 22:34

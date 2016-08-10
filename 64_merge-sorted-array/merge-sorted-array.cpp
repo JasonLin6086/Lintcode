@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/merge-sorted-array
 @Language: C++
 @Datetime: 16-07-14 17:42

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/binary-search-tree-iterator
 @Language: C++
 @Datetime: 16-01-28 19:56

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/remove-linked-list-elements
 @Language: C++
 @Datetime: 16-07-12 21:13

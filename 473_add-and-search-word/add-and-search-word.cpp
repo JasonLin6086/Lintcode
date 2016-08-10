@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/add-and-search-word
 @Language: C++
 @Datetime: 15-11-16 01:15

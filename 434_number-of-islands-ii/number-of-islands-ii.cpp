@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/number-of-islands-ii
 @Language: C++
 @Datetime: 15-10-01 17:27

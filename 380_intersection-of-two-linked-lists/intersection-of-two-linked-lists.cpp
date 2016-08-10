@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/intersection-of-two-linked-lists
 @Language: C++
 @Datetime: 15-12-01 08:03

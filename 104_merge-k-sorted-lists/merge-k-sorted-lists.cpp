@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/merge-k-sorted-lists
 @Language: C++
 @Datetime: 16-06-30 01:43

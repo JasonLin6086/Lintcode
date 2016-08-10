@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/minimum-adjustment-cost
 @Language: C++
 @Datetime: 16-08-10 06:51

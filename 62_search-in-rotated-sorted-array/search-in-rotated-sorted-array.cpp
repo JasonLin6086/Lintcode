@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/search-in-rotated-sorted-array
 @Language: C++
 @Datetime: 16-02-07 01:55

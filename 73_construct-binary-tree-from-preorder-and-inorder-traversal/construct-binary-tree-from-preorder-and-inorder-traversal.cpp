@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/construct-binary-tree-from-preorder-and-inorder-traversal
 @Language: C++
 @Datetime: 15-09-10 19:44

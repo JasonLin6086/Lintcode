@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/minimum-depth-of-binary-tree
 @Language: C++
 @Datetime: 16-07-15 16:22

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/unique-binary-search-trees-ii
 @Language: C++
 @Datetime: 16-08-10 18:17

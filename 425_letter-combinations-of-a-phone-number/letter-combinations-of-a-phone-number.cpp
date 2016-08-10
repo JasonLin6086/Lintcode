@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/letter-combinations-of-a-phone-number
 @Language: C++
 @Datetime: 15-12-07 17:22

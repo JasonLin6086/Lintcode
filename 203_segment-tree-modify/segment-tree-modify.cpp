@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/segment-tree-modify
 @Language: C++
 @Datetime: 15-12-08 07:27

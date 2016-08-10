@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/flatten-binary-tree-to-linked-list
 @Language: C++
 @Datetime: 16-02-09 20:50

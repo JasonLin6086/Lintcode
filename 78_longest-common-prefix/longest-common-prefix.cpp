@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/longest-common-prefix
 @Language: C++
 @Datetime: 15-09-03 07:23

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/distinct-subsequences
 @Language: C++
 @Datetime: 15-09-14 00:50

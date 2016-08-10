@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/valid-palindrome
 @Language: C++
 @Datetime: 16-07-23 20:58

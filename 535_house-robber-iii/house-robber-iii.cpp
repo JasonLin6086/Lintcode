@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/house-robber-iii
 @Language: C++
 @Datetime: 16-07-13 17:39

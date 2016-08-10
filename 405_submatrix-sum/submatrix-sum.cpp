@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/submatrix-sum
 @Language: C++
 @Datetime: 15-09-28 23:37

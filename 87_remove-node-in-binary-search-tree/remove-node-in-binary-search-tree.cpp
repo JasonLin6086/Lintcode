@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/remove-node-in-binary-search-tree
 @Language: C++
 @Datetime: 15-09-11 04:59

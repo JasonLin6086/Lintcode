@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/insert-node-in-a-binary-search-tree
 @Language: C++
 @Datetime: 15-09-10 15:21

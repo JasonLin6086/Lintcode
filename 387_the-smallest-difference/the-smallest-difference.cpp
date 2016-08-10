@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/the-smallest-difference
 @Language: C++
 @Datetime: 16-08-10 07:04

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/count-of-smaller-number
 @Language: C++
 @Datetime: 15-12-08 18:07

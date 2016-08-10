@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/maximum-depth-of-binary-tree
 @Language: C++
 @Datetime: 15-08-04 23:05

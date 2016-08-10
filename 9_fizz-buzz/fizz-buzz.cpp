@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/fizz-buzz
 @Language: C++
 @Datetime: 15-09-13 19:32

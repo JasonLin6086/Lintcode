@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/insertion-sort-list
 @Language: C++
 @Datetime: 15-11-06 22:01

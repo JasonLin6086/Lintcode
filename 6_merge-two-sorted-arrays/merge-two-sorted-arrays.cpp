@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/merge-two-sorted-arrays
 @Language: C++
 @Datetime: 15-07-23 06:54

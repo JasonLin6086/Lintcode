@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/copy-list-with-random-pointer
 @Language: C++
 @Datetime: 15-09-09 21:06

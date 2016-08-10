@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jerhaulin
+@Author:   jasonlin
 @Problem:  http://www.lintcode.com/problem/surrounded-regions
 @Language: C++
 @Datetime: 15-11-22 21:35
