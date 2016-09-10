@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/product-of-array-exclude-itself
 @Language: C++
 @Datetime: 16-01-28 23:18

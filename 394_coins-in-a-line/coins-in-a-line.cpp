@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/coins-in-a-line
 @Language: C++
 @Datetime: 15-11-06 18:10

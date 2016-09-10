@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/minimum-size-subarray-sum
 @Language: C++
 @Datetime: 15-11-16 20:16

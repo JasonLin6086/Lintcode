@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/find-the-connected-component-in-the-undirected-graph
 @Language: C++
 @Datetime: 15-10-05 22:13

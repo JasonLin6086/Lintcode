@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/validate-binary-search-tree
 @Language: C++
 @Datetime: 16-01-27 19:02

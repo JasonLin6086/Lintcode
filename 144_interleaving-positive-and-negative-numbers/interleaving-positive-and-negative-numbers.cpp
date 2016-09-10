@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/interleaving-positive-and-negative-numbers
 @Language: C++
 @Datetime: 15-11-30 01:17

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/count-1-in-binary
 @Language: C++
 @Datetime: 16-07-13 17:58

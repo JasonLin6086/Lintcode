@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/o1-check-power-of-2
 @Language: C++
 @Datetime: 15-09-06 05:10

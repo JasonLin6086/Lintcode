@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/subarray-sum-closest
 @Language: C++
 @Datetime: 15-07-20 22:36

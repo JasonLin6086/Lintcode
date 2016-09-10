@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/two-strings-are-anagrams
 @Language: C++
 @Datetime: 16-07-23 20:50

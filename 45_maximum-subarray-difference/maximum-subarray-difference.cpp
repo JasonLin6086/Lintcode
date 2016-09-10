@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/maximum-subarray-difference
 @Language: C++
 @Datetime: 15-09-14 16:33

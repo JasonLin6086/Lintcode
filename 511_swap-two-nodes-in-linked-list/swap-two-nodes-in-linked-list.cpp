@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/swap-two-nodes-in-linked-list
 @Language: C++
 @Datetime: 16-03-15 02:05

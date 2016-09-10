@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/ugly-number-ii
 @Language: C++
 @Datetime: 16-03-24 17:24

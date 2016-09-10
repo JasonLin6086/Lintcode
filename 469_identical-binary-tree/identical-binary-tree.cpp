@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/identical-binary-tree
 @Language: C++
 @Datetime: 15-12-21 22:21

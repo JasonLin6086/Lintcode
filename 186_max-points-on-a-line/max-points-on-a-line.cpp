@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/max-points-on-a-line
 @Language: C++
 @Datetime: 16-01-29 18:42

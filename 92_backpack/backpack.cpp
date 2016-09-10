@@ -1,9 +1,9 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/backpack
 @Language: C++
-@Datetime: 15-10-19 21:26
+@Datetime: 16-08-10 21:54
 */
 
 class Solution {
@@ -20,13 +20,11 @@ public:
         }
 
         const int N = A.size();
-        vector<bool> result;
-        result.resize(m + 1);
-        std::fill(result.begin(), result.end(), false);
+        vector<bool> result(m+1);
 
         result[0] = true;
-        for (int i = 0; i != N; ++i) {
-            for (int j = m; j >= 0; --j) {
+        for (int i = 0; i < N; i++) {
+            for (int j = m; j >= 0; j--) {
                 if (j >= A[i] && result[j - A[i]]) {
                     result[j] = true;
                 }
@@ -34,7 +32,7 @@ public:
         }
 
         // return the largest i if true
-        for (int i = m; i > 0; --i) {
+        for (int i = m; i > 0; i--) {
             if (result[i]) {
                 return i;
             }

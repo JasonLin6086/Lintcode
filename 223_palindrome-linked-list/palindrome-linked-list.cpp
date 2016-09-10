@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/palindrome-linked-list
 @Language: C++
 @Datetime: 16-08-10 18:51

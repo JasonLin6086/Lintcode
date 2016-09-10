@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/swap-nodes-in-pairs
 @Language: C++
 @Datetime: 16-07-23 20:31

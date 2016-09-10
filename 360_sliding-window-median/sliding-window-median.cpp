@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/sliding-window-median
 @Language: C++
 @Datetime: 15-09-24 21:17

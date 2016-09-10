@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/regular-expression-matching
 @Language: C++
 @Datetime: 16-06-30 16:05

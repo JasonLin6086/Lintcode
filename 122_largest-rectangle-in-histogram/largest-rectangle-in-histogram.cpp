@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/largest-rectangle-in-histogram
 @Language: C++
 @Datetime: 15-09-18 04:48

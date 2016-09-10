@@ -1,9 +1,9 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array
 @Language: C++
-@Datetime: 15-09-04 22:21
+@Datetime: 16-08-11 18:52
 */
 
 class Solution {
@@ -14,19 +14,15 @@ public:
      */
     int findMin(vector<int> &num) {
         // write your code here
-        int size = num.size();
-        int i;
-        int start=0, end=size-1, mid;
-        while (start+1<end) {
-            mid = start + (end - start) / 2;
-            if (num[mid] > num[end])
-                start = mid;
-            else 
+        int start = 0, end = num.size() - 1;
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+            if (num[mid] > num[end]) {
+                start = mid + 1;
+            } else {
                 end = mid;
+            }
         }
-        if (num[start] > num[end])
-            return num[end];
-        else
-            return num[start];
+        return num[start];
     }
 };

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/median-of-two-sorted-arrays
 @Language: C++
 @Datetime: 16-04-14 19:41

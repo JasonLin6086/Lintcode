@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph
 @Language: C++
 @Datetime: 15-10-06 20:15

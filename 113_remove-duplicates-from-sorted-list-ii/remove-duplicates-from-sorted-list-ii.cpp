@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/remove-duplicates-from-sorted-list-ii
 @Language: C++
 @Datetime: 15-09-24 20:57

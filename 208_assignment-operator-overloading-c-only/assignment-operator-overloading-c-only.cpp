@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/assignment-operator-overloading-c-only
 @Language: C++
 @Datetime: 15-09-21 16:20

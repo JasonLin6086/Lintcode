@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/recover-rotated-sorted-array
 @Language: C++
 @Datetime: 15-12-01 18:31

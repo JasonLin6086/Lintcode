@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/create-maximum-number
 @Language: C++
 @Datetime: 16-06-28 20:25

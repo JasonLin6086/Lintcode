@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/sort-integers-ii
 @Language: C++
 @Datetime: 16-06-29 21:07

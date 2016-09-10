@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/longest-consecutive-sequence
 @Language: C++
 @Datetime: 16-02-09 22:41

@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/invert-binary-tree
 @Language: C++
 @Datetime: 16-07-13 19:12

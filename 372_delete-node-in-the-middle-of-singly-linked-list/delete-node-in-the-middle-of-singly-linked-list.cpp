@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/delete-node-in-the-middle-of-singly-linked-list
 @Language: C++
 @Datetime: 15-09-21 21:43

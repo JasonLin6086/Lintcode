@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/linked-list-cycle-ii
 @Language: C++
 @Datetime: 15-09-24 19:08

@@ -1,9 +1,9 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/binary-tree-level-order-traversal
 @Language: C++
-@Datetime: 15-08-04 22:59
+@Datetime: 16-08-11 18:29
 */
 
 /**

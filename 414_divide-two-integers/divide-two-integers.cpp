@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/divide-two-integers
 @Language: C++
 @Datetime: 15-11-24 00:53

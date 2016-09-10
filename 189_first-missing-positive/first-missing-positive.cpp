@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/first-missing-positive
 @Language: C++
 @Datetime: 15-09-04 06:15

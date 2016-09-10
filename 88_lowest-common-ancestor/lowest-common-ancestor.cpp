@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/lowest-common-ancestor
 @Language: C++
 @Datetime: 16-02-09 20:56

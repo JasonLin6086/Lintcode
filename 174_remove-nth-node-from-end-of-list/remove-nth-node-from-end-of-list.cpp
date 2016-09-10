@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/remove-nth-node-from-end-of-list
 @Language: C++
 @Datetime: 15-12-01 18:10

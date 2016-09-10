@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/valid-parentheses
 @Language: C++
 @Datetime: 16-08-02 19:25

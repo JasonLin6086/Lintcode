@@ -1,9 +1,9 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/segment-tree-build
 @Language: C++
-@Datetime: 15-12-08 07:23
+@Datetime: 16-09-06 02:37
 */
 
 /**

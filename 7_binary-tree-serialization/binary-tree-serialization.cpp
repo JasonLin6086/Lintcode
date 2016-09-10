@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/binary-tree-serialization
 @Language: C++
 @Datetime: 15-09-11 04:56

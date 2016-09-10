@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/find-the-missing-number
 @Language: C++
 @Datetime: 15-07-25 05:57

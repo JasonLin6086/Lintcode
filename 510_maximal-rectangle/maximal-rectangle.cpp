@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/maximal-rectangle
 @Language: C++
 @Datetime: 16-03-13 02:19

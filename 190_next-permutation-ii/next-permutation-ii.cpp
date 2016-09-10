@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/next-permutation-ii
 @Language: C++
 @Datetime: 16-03-28 15:29

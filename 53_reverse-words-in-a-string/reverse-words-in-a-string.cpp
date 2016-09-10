@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/reverse-words-in-a-string
 @Language: C++
 @Datetime: 16-07-18 22:27

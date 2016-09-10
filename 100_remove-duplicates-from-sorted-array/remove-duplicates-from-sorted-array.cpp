@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/remove-duplicates-from-sorted-array
 @Language: C++
 @Datetime: 16-07-17 18:14

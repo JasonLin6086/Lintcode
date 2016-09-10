@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/kth-smallest-number-in-sorted-matrix
 @Language: C++
 @Datetime: 16-01-27 17:25

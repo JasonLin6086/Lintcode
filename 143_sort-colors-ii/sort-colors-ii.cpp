@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/sort-colors-ii
 @Language: C++
 @Datetime: 15-11-17 17:48

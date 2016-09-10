@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/cosine-similarity
 @Language: C++
 @Datetime: 15-09-29 07:53

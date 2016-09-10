@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/print-numbers-by-recursion
 @Language: C++
 @Datetime: 15-09-20 17:29

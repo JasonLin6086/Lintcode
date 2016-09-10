@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/container-with-most-water
 @Language: C++
 @Datetime: 15-11-07 17:35

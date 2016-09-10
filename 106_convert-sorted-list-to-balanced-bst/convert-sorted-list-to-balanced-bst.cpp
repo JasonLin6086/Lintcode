@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/convert-sorted-list-to-balanced-bst
 @Language: C++
 @Datetime: 15-09-09 20:43

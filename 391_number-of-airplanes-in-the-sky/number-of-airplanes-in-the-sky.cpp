@@ -1,6 +1,6 @@
 /*
 @Copyright:LintCode
-@Author:   jasonlin
+@Author:   jerhaulin
 @Problem:  http://www.lintcode.com/problem/number-of-airplanes-in-the-sky
 @Language: C++
 @Datetime: 16-08-09 17:20
